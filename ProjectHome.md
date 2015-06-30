@@ -1,0 +1,1 @@
+Please enjoy the new home of MPlayerX: [http://mplayerx.org](http://mplayerx.org)
